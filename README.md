@@ -39,7 +39,7 @@ dlted manglish(me)
 <a href="#"><img title="ᠻ𝓲ꪶꪮV2" src="https://img.shields.io/badge/𝙵𝙸𝙻𝙾𝚅2✌︎-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 
-<a href="https://github.com/tearffpc"><img title="Author" src="https://img.shields.io/badge/Author✍︎-𝐍𝐞𝐱𝐮𝐬 𝐍𝐰-/filo?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/tearffpc"><img title="Author" src="https://img.shields.io/badge/Author✍︎-Tearffpc-/filo?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 
@@ -113,9 +113,9 @@ Spot ban കിട്ടും
  ## Developers
   <div align="center">
     
-  [![nexusNw](https://github.com/nexusNw.png?size=100)](https://github.com/nexusNw) 
+  [![tearffpc](https://github.com/tearffpc.png?size=100)](https://github.com/nexusNw) 
 ❌
-[nexusNw☕︎](https://github.com/nexusNw) 
+[tearffpc☕︎](https://github.com/nexusNw) 
 (*Author, Base, Bug Fixes, Modules*)
  
 
