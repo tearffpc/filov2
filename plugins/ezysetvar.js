@@ -34,15 +34,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         STICKER_off = 'STICKER option turned off!'
         
     }
-    if (config.LANG == 'MG') {
-        l_dsc = 'bgm on ahkukayo off ahkukayo cheyuka. -botinte owmer command'
-        Y_dsc = 'bgm on ahkukayo off ahkukayo cheyuka. -botinte owmer command'        
-        BGM_on = 'bgm on ahki'
-        BGM_off = 'bgm off ahki'
-        STICKER_on = 'STICKER option on ahki!'
-        STICKER_off = 'STICKER option off ahki!'
-        
-    }
+
     Julie.addCommand({pattern: 'bgm ?(.*)', fromMe: true, desc: l_dsc, usage: '.bgm on / off' }, (async (message, match) => {
         if (match[1] == 'off') {
                 await heroku.patch(baseURI + '/config-vars', { 
