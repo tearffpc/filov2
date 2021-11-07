@@ -39,20 +39,20 @@ dlted manglish(me)
 <a href="#"><img title="ᠻ𝓲ꪶꪮV2" src="https://img.shields.io/badge/𝙵𝙸𝙻𝙾𝚅2✌︎-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 
-<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author✍︎-𝐍𝐞𝐱𝐮𝐬 𝐍𝐰-/filo?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/tearffpc"><img title="Author" src="https://img.shields.io/badge/Author✍︎-𝐍𝐞𝐱𝐮𝐬 𝐍𝐰-/filo?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nexusNw/filov2&title=Profile%20Views)
 
 <p align="center">
-  <a href="https://github.com/nexusNw/filov2">
+  <a href="https://github.com/tearffpc/filov2">
     <img src="https://img.shields.io/github/repo-size/nexusNw/filov2?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
-<a href="https://github.com/nexusNw/followers"><img title="Followers" src="https://img.shields.io/github/followers/nexusNw?color=red&style=flat-circle"></a>
-<a href="https://github.com/nexusNw/filo/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/filov2?color=red&style=flat-square"></a>
+<a href="https://github.com/tearffpc/followers"><img title="Followers" src="https://img.shields.io/github/followers/nexusNw?color=red&style=flat-circle"></a>
+<a href="https://github.com/tearffpc/filo/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/filov2?color=red&style=flat-square"></a>
 <a href="https://github.com/nexusNw/filo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/filov2?color=red&style=flat-square"></a>
-<a href="https://github.com/nexusNw/filo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/filov2?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/tearffpc/filo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/filov2?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-NO-blue.svg"</a>
 </p>
 
@@ -62,9 +62,9 @@ dlted manglish(me)
 
 <h4 align="center">➪Connect with me☜︎︎︎
 <p align="center">
-  <a href="https://wa.me/918129624395"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/nexusser"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/nexusNw"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://wa.me/919562881715"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/tearser"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/tearffpc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://gist.github.com/nexusNw/79986a7d03c3b8ead589b3056c8f5ef4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xxirfanx" height="30" width="40" /></a>
   <a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="irfan yt ff" height="30" width="40" /></a>
   <a href="https://gist.github.com/nexusNw/37fe028c2e1f329c133675a690d03869" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerking" height="30" width="40" /></a>
